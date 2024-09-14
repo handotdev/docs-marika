@@ -15,6 +15,9 @@
       "to": "#2563eb"
     }
   },
+  "background": {
+    "style": "gradient"
+  },
   "topbarLinks": [
     {
       "name": "Sign in",
