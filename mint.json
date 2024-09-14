@@ -17,13 +17,18 @@
   },
   "topbarLinks": [
     {
-      "name": "Support",
-      "url": "mailto:hi@mintlify.com"
+      "name": "Sign in",
+      "url": "https://dashboard.govdash.com/login"
     }
   ],
+  "modeToggle": {
+    "default": "light"
+  },
   "topbarCtaButton": {
-    "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
+    "name": "Get Access",
+    "url": "https://govdash.com/#cta",
+    "arrow": false,
+    "style": "roundedRectangle"
   },
   "tabs": [
     {
